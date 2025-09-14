@@ -1,1 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ICTM Y2S1 Timetable</title>
+</head>
+<body>
+  <h2 style="text-align:center;">ICTM Y2S1 TIMETABLE</h2>
+  
+  <table border="1" cellpadding="8" cellspacing="0" align="center">
+    <tr>
+      <th>DAY</th>
+      <th>UNIT</th>
+      <th>TIME</th>
+      <th>VENUE</th>
+      <th>LECTURER</th>
+    </tr>
+    
+    <tr>
+      <td>MONDAY</td>
+      <td>CIM 217 OPERATIONS MANAGEMENT</td>
+      <td>2PM – 5PM</td>
+      <td>NL8</td>
+      <td>MR. GEORGE OMUONO</td>
+    </tr>
+    
+    <tr>
+      <td rowspan="2">TUESDAY</td>
+      <td>CIR 205 OBJECT ORIENTED PROGRAMMING II</td>
+      <td>10AM – 1PM</td>
+      <td>LAB 2</td>
+      <td>MR. MOSES WAINAINA</td>
+    </tr>
+    <tr>
+      <td>CIR 209 LAN DESIGN AND IMPLEMENTATION</td>
+      <td>1PM – 4PM</td>
+      <td>TB1</td>
+      <td>MR. JAMES CHAMWAMA</td>
+    </tr>
+    
+    <tr>
+      <td>WEDNESDAY</td>
+      <td>CIT 211 EVENT DRIVEN PROGRAMMING (THEORY)</td>
+      <td>8AM – 10AM</td>
+      <td>NL13</td>
+      <td>MR. CHARLES AWUOR</td>
+    </tr>
+    
+    <tr>
+      <td rowspan="3">THURSDAY</td>
+      <td>CIT 211 EVENT DRIVEN PROGRAMMING (PRACS)</td>
+      <td>7AM – 9AM</td>
+      <td>LAB1,3 & 4</td>
+      <td>MR. CHARLES AWUOR</td>
+    </tr>
+    <tr>
+      <td>CIM 207 SYSTEM SUPPORT</td>
+      <td>9AM – 12PM</td>
+      <td>TB2</td>
+      <td>MR. BETHUEL OKELLO</td>
+    </tr>
+    <tr>
+      <td>CIR 201 COMPUTING METHODOLOGIES AND TECHNICAL REPORT WRITING</td>
+      <td>2PM – 5PM</td>
+      <td>AMPH2</td>
+      <td>DR. ERICK OTEYO</td>
+    </tr>
+    
+    <tr>
+      <td rowspan="2">FRIDAY</td>
+      <td>CIR 203 DATA STRUCTURES AND ALGORITHM</td>
+      <td>7AM – 9AM</td>
+      <td>TB2</td>
+      <td>DR. SAMUEL OONGE</td>
+    </tr>
+    <tr>
+      <td>CIS 221 WEB DESIGN AND DEVELOPMENT</td>
+      <td>9:10AM – 1PM</td>
+      <td>LAB5</td>
+      <td>MS. RENNISH MBOYA</td>
+    </tr>
+  </table>
+</body>
+</html>
 
